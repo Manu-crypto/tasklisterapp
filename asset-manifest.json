@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tasklisterapp/static/css/main.684622ec.css",
+    "main.js": "/tasklisterapp/static/js/main.9d1ebff0.js",
+    "static/media/hello.jpg": "/tasklisterapp/static/media/hello.03bffd3124244642abf2.jpg",
+    "static/media/hello2.jpg": "/tasklisterapp/static/media/hello2.cb8f55d43df93cf123df.jpg",
+    "index.html": "/tasklisterapp/index.html",
+    "main.684622ec.css.map": "/tasklisterapp/static/css/main.684622ec.css.map",
+    "main.9d1ebff0.js.map": "/tasklisterapp/static/js/main.9d1ebff0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.684622ec.css",
+    "static/js/main.9d1ebff0.js"
+  ]
+}
